@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser System.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True System.ipynb

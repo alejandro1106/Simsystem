@@ -1,5 +1,0 @@
-ipympl
-voila
-numpy
-matplotlib
-IPython

@@ -3,3 +3,5 @@ voila
 numpy
 matplotlib
 IPython
+astropy
+astroquery

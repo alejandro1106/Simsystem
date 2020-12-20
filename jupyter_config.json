@@ -1,6 +1,7 @@
 {
     "VoilaConfiguration": {
-    	"theme": "dark",
+    	"enable_nbextensions": true,
+    	"theme": "dark",        
         "template": "vuetify-default"
     }
 }

@@ -1,0 +1,7 @@
+{
+    "VoilaConfiguration": {
+    	"theme": "dark",
+        "template": "vuetify-default",
+        "remove_all_outputs_tags":["hide"]
+    }
+}
